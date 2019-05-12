@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vegan_plug_3225.wsgi:application

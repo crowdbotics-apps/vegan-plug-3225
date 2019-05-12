@@ -1,0 +1,3 @@
+rootProject.name = 'vegan_plug_3225'
+
+include ':app'
